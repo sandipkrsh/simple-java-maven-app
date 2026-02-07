@@ -62,7 +62,7 @@ spec:
   environment {
     // ===== GIT =====
     GIT_REPO = "https://github.com/sandip84/simple-java-maven-app.git"
-    GIT_BRANCH = "master"
+    GIT_BRANCH = "sandy"
 
     // ===== NEXUS =====
     NEXUS_REPO = "http://nexus-nexus-repository-manager.nexus.svc.cluster.local:8081/repository/maven-snapshots"
