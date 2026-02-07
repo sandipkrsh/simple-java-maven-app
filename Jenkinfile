@@ -92,6 +92,7 @@ spec:
       steps {
         sh '''
            mvn clean package -DskipTests
+           echo 'sandip....................'
         '''
       }
     }
